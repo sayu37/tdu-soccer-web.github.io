@@ -60,14 +60,15 @@ h2 {
 }
 
 .video-container {
-  margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 画面全体の高さに揃える */
 }
 
-video {
-  width: 80%;
-  max-width: 600px;
-  border: 2px solid #0044cc;
-  border-radius: 10px;
+iframe {
+    width: 560px;
+    height: 315px;
 }
 
 footer {
