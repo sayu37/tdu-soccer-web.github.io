@@ -60,7 +60,7 @@ h2 {
 iframe {
   width: 80%;  /* 動画をページ幅の80%に拡大 */
   max-width: 800px; /* 最大幅を800pxに制限 */
-  height: auto;
+  height: 315px;
 }
 
 footer {
