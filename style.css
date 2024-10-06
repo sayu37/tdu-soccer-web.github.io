@@ -25,14 +25,6 @@ header h1 {
   margin: 10px 0;
 }
 
-.team-photo {
-  width: 80%;
-  height: auto;
-  max-width: 800px;
-  margin-bottom: 20px;
-  border-radius: 10px;
-}
-
 nav ul {
   list-style: none;
   padding: 0;
@@ -62,7 +54,6 @@ h2 {
 .video-container {
     display: flex;
     justify-content: center;
-    height: 100vh; /* 画面全体の高さに揃える */
 }
 
 iframe {
