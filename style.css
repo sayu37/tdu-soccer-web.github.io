@@ -52,13 +52,15 @@ h2 {
 }
 
 .video-container {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
+  padding: 20px 0; /* 上下のパディングで空間を調整 */
 }
 
 iframe {
-    width: 560px;
-    height: 315px;
+  width: 80%;  /* 動画をページ幅の80%に拡大 */
+  max-width: 800px; /* 最大幅を800pxに制限 */
+  height: auto;
 }
 
 footer {
