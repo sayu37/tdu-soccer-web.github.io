@@ -2,11 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/</loc>
-    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/past.html</loc>
-    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/soccer.html</loc>
-    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/suport.html</loc>
-    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/teikisen.html</loc>
     <lastmod>2024-10-12</lastmod>
     <priority>1.00</priority>
+  </url>
+  
+  <url>
+    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/past</loc>
+    <lastmod>2024-10-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/soccer</loc>
+    <lastmod>2024-10-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+
+  <url>
+    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/suport</loc>
+    <lastmod>2024-10-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/taikisen</loc>
+    <lastmod>2024-10-12</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
