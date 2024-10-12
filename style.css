@@ -104,3 +104,48 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+/* モバイルフレンドリー対応 */
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  header {
+    padding: 15px 0;
+  }
+
+  header h1 {
+    font-size: 20px;
+  }
+
+  nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav ul li {
+    margin: 10px 0;
+    display: block;
+  }
+
+  .video-container {
+    width: 100%; /* モバイルでは幅を100%に */
+    padding-top: 56.25%; /* 16:9の比率を維持 */
+  }
+
+  section {
+    padding: 20px 10px;
+  }
+
+  footer {
+    font-size: 12px;
+  }
+
+  footer img.emblem {
+    width: 30px;
+    height: 30px;
+  }
+}
