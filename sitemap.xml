@@ -5,30 +5,36 @@
     <lastmod>2024-10-12</lastmod>
     <priority>1.00</priority>
   </url>
+
+  <url>
+    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/index.html</loc>
+    <lastmod>2024-10-12</lastmod>
+    <priority>1.00</priority>
+  </url>
   
   <url>
-    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/past</loc>
+    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/past.html</loc>
     <lastmod>2024-10-12</lastmod>
     <priority>0.8</priority>
   </url>
 
   
   <url>
-    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/soccer</loc>
+    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/soccer.html</loc>
     <lastmod>2024-10-12</lastmod>
     <priority>0.8</priority>
   </url>
 
 
   <url>
-    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/suport</loc>
+    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/suport.html</loc>
     <lastmod>2024-10-12</lastmod>
     <priority>0.8</priority>
   </url>
 
   
   <url>
-    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/taikisen</loc>
+    <loc>https://tdu-soccer.github.io/tdu-soccer-web.github.io/taikisen.html</loc>
     <lastmod>2024-10-12</lastmod>
     <priority>0.8</priority>
   </url>
