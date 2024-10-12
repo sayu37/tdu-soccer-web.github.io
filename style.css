@@ -53,10 +53,10 @@ h2 {
 }
 
 .video-container {
-  position: relative;
-  width: 95%;  /* 動画の幅をページ幅の80%に設定 */
-  margin: 16px auto 0 auto; /* 中央寄せ */
-  padding-top: 56.25%; /* 16:9の比率を保つためのトリック */
+  width: 100%;
+  max-width: 800px; /* 最大幅を800pxに設定 */
+  margin: 20px auto; /* 上下に20pxの余白を設定して中央寄せ */
+  padding: 0; /* 余計なパディングを削除 */
 }
 
 iframe {
